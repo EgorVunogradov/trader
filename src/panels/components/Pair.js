@@ -98,7 +98,7 @@ class Pair extends React.Component {
   render() {
     const fullname = this.props.fullname;
     const coinval = this.props.coinname;
-    const coinroot = `img/${coinval}.png`
+    const coinroot = `img/${coinval}.png`;
     const pair = this.props.pairs;
     const { error, isLoaded} = this.state;
     const pairceil = Math.ceil((this.state.coindef)*100)/100;
