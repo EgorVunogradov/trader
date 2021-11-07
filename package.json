@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.com/EvorWin/123eee.git",
+  "homepage": "https://github.com/egorvunogradov/trader.git",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
